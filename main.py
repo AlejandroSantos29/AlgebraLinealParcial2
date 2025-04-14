@@ -19,3 +19,5 @@ ax.set_zlabel('Eje Z')
 ax.legend()
 plt.title('Vectores en 3D')
 plt.show()
+
+# nos va a cargar la verga compa
